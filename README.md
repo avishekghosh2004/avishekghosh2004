@@ -29,7 +29,7 @@ A passionate developer from India, Any fool can write code that a computer can u
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vercel&theme=dark"></td>
 </tr>
 
 </table>
