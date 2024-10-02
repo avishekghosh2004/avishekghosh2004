@@ -23,7 +23,7 @@ A passionate developer from India, Any fool can write code that a computer can u
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,spring,express,mongodb" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
   <tr>
 	<td><strong>Tools</strong></td>
