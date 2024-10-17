@@ -48,7 +48,7 @@ A passionate developer from India, Any fool can write code that a computer can u
 														 
 
 
- 💬 Ask me about **MERN**<br>
+ 💬 Ask me about **React, SpringBoot**<br>
  📫 How to reach me **gavishek465@gmail.com**
 
 
