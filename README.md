@@ -23,13 +23,13 @@ A passionate developer from India, Any fool can write code that a computer can u
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind,webpack,babel,nodejs,expressjs,mongodb,postgresql" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,c,golang&theme=dark"></td>
   <tr>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vercel&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vercel,linux,figma&theme=dark"></td>
 </tr>
 
 </table>
@@ -48,7 +48,7 @@ A passionate developer from India, Any fool can write code that a computer can u
 														 
 
 
- 💬 Ask me about **React, SpringBoot**<br>
+ 💬 Ask me about **React, Node.**<br>
  📫 How to reach me **gavishek465@gmail.com**
 
 
